@@ -1,0 +1,61 @@
+
+<?xml-model href="events.rnc" type="application/relax-ng-compact-syntax"?>
+<events>
+  <track type="1" name="Mario Game History">
+    <event>
+      <title>Super Mario Bros. Released</title>
+      <date type="start">
+        <year>1985</year>
+        <month>09</month>
+        <era>AD</era>
+      </date>
+      <description>Nintendo releases Super Mario Bros. in Japan for the Famicom. Mario sets out to rescue Princess Toadstool from Bowser.</description>
+      <lat>34.9858</lat>
+      <lon>135.7588</lon>
+    </event>
+    <event>
+      <title>Super Mario 64 Released</title>
+      <date type="start">
+        <year>1996</year>
+        <month>06</month>
+        <era>AD</era>
+      </date>
+      <description>Super Mario 64 launches in Japan for the Nintendo 64, bringing Mario into a fully 3D world.</description>
+      <lat>34.9858</lat>
+      <lon>135.7588</lon>
+    </event>
+    <event>
+      <title>Super Mario Galaxy Released</title>
+      <date type="start">
+        <year>2007</year>
+        <month>11</month>
+        <era>AD</era>
+      </date>
+      <description>Super Mario Galaxy launches for the Wii. Mario travels through space and explores planets with different gravitational forces.</description>
+      <lat>34.9858</lat>
+      <lon>135.7588</lon>
+    </event>
+    <event>
+      <title>Super Mario Odyssey Released</title>
+      <date type="start">
+        <year>2017</year>
+        <month>10</month>
+        <era>AD</era>
+      </date>
+      <description>Super Mario Odyssey launches for the Nintendo Switch. Mario travels to different kingdoms with his companion Cappy.</description>
+      <lat>34.9858</lat>
+      <lon>135.7588</lon>
+    </event>
+    <event>
+      <title>Super Mario Bros. Wonder Released</title>
+      <date type="start">
+        <year>2023</year>
+        <month>10</month>
+        <era>AD</era>
+      </date>
+      <description>Super Mario Bros. Wonder launches for the Nintendo Switch, introducing Wonder Flowers that transform the gameplay in surprising ways.</description>
+      <lat>34.9858</lat>
+      <lon>135.7588</lon>
+    </event>
+  </track>
+</events>
